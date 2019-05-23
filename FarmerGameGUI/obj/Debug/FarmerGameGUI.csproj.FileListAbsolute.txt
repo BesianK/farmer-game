@@ -1,0 +1,31 @@
+C:\Users\angkh\Desktop\MATC\Fall 2017\Intermediate Object Ornted Prog\FarmerGameGUI\FarmerGameGUI\bin\Debug\FarmerGameGUI.exe.config
+C:\Users\angkh\Desktop\MATC\Fall 2017\Intermediate Object Ornted Prog\FarmerGameGUI\FarmerGameGUI\bin\Debug\FarmerGameGUI.exe
+C:\Users\angkh\Desktop\MATC\Fall 2017\Intermediate Object Ornted Prog\FarmerGameGUI\FarmerGameGUI\bin\Debug\FarmerGameGUI.pdb
+C:\Users\angkh\Desktop\MATC\Fall 2017\Intermediate Object Ornted Prog\FarmerGameGUI\FarmerGameGUI\obj\Debug\FarmerGameGUI.csprojResolveAssemblyReference.cache
+C:\Users\angkh\Desktop\MATC\Fall 2017\Intermediate Object Ornted Prog\FarmerGameGUI\FarmerGameGUI\obj\Debug\FarmerGameGUI.Properties.Resources.resources
+C:\Users\angkh\Desktop\MATC\Fall 2017\Intermediate Object Ornted Prog\FarmerGameGUI\FarmerGameGUI\obj\Debug\FarmerGameGUI.csproj.GenerateResource.Cache
+C:\Users\angkh\Desktop\MATC\Fall 2017\Intermediate Object Ornted Prog\FarmerGameGUI\FarmerGameGUI\obj\Debug\FarmerGameGUI.csproj.CoreCompileInputs.cache
+C:\Users\angkh\Desktop\MATC\Fall 2017\Intermediate Object Ornted Prog\FarmerGameGUI\FarmerGameGUI\obj\Debug\FarmerGameGUI.exe
+C:\Users\angkh\Desktop\MATC\Fall 2017\Intermediate Object Ornted Prog\FarmerGameGUI\FarmerGameGUI\obj\Debug\FarmerGameGUI.pdb
+C:\Users\angkh\Desktop\MATC\Fall 2017\Intermediate Object Ornted Prog\FarmerGameGUI\FarmerGameGUI\obj\Debug\FarmerGameGUI.frmMain.resources
+D:\School\Vil\Angkham_FarmerGameGUI\FarmerGameGUI\FarmerGameGUI\bin\Debug\FarmerGameGUI.exe.config
+D:\School\Vil\Angkham_FarmerGameGUI\FarmerGameGUI\FarmerGameGUI\bin\Debug\FarmerGameGUI.exe
+D:\School\Vil\Angkham_FarmerGameGUI\FarmerGameGUI\FarmerGameGUI\bin\Debug\FarmerGameGUI.pdb
+D:\School\Vil\Angkham_FarmerGameGUI\FarmerGameGUI\FarmerGameGUI\obj\Debug\FarmerGameGUI.csprojResolveAssemblyReference.cache
+D:\School\Vil\Angkham_FarmerGameGUI\FarmerGameGUI\FarmerGameGUI\obj\Debug\FarmerGameGUI.frmMain.resources
+D:\School\Vil\Angkham_FarmerGameGUI\FarmerGameGUI\FarmerGameGUI\obj\Debug\FarmerGameGUI.Properties.Resources.resources
+D:\School\Vil\Angkham_FarmerGameGUI\FarmerGameGUI\FarmerGameGUI\obj\Debug\FarmerGameGUI.csproj.GenerateResource.cache
+D:\School\Vil\Angkham_FarmerGameGUI\FarmerGameGUI\FarmerGameGUI\obj\Debug\FarmerGameGUI.csproj.CoreCompileInputs.cache
+D:\School\Vil\Angkham_FarmerGameGUI\FarmerGameGUI\FarmerGameGUI\obj\Debug\FarmerGameGUI.exe
+D:\School\Vil\Angkham_FarmerGameGUI\FarmerGameGUI\FarmerGameGUI\obj\Debug\FarmerGameGUI.pdb
+C:\Users\besia\Documents\School\ITDEV115\Assignment4\FarmerGameGUI\FarmerGameGUI\bin\Debug\FarmerGameGUI.exe.config
+C:\Users\besia\Documents\School\ITDEV115\Assignment4\FarmerGameGUI\FarmerGameGUI\bin\Debug\FarmerGameGUI.exe
+C:\Users\besia\Documents\School\ITDEV115\Assignment4\FarmerGameGUI\FarmerGameGUI\bin\Debug\FarmerGameGUI.pdb
+C:\Users\besia\Documents\School\ITDEV115\Assignment4\FarmerGameGUI\FarmerGameGUI\obj\Debug\FarmerGameGUI.csprojResolveAssemblyReference.cache
+C:\Users\besia\Documents\School\ITDEV115\Assignment4\FarmerGameGUI\FarmerGameGUI\obj\Debug\FarmerGameGUI.FrmMain.resources
+C:\Users\besia\Documents\School\ITDEV115\Assignment4\FarmerGameGUI\FarmerGameGUI\obj\Debug\FarmerGameGUI.Properties.Resources.resources
+C:\Users\besia\Documents\School\ITDEV115\Assignment4\FarmerGameGUI\FarmerGameGUI\obj\Debug\FarmerGameGUI.csproj.GenerateResource.cache
+C:\Users\besia\Documents\School\ITDEV115\Assignment4\FarmerGameGUI\FarmerGameGUI\obj\Debug\FarmerGameGUI.csproj.CoreCompileInputs.cache
+C:\Users\besia\Documents\School\ITDEV115\Assignment4\FarmerGameGUI\FarmerGameGUI\obj\Debug\FarmerGameGUI.exe
+C:\Users\besia\Documents\School\ITDEV115\Assignment4\FarmerGameGUI\FarmerGameGUI\obj\Debug\FarmerGameGUI.pdb
+C:\Users\besia\Documents\School\ITDEV115\Assignment4\FarmerGameGUI\FarmerGameGUI\bin\Debug\RoarDrums.wav
